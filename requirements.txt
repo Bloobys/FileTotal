@@ -1,0 +1,18 @@
+# FileTotal - Required Python Packages
+# Install all packages with: pip install -r requirements.txt
+ 
+# GUI
+customtkinter>=5.2.0
+ 
+# File Analysis
+pefile>=2023.2.7
+oletools>=0.60.1
+ 
+# VirusTotal Integration
+vt-py>=0.18.0
+ 
+# Google Gemini AI
+google-genai>=0.3.0
+ 
+# Environment Variables
+python-dotenv>=1.0.0
